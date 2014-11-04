@@ -1,0 +1,61 @@
+#hide{ 
+   display: none; 
+}
+
+#toggle{
+margin:5px 351px;
+font-size:30px;
+color:blue;
+text-transform:uppercase;
+}
+
+
+#Header{
+background-image: url('http://www.yhon-soto.info/Testing%20images/Header.png');
+background-repeat: no-repeat;
+height:100px;
+margin:158px 170px 0px;
+   
+}
+
+body{
+background-image: url('http://www.yhon-soto.info/Testing%20images/Planet.png');
+background-repeat: no-repeat;
+background-position: 50% 0%;
+height: 1148px;
+margin-top: -8px;
+}
+
+
+#Second-planet-image{
+padding-top: 12px;
+padding-left: 15px;
+padding-right:15px;   
+padding-bottom: 15px;
+margin: -25px 185px 0px;
+width:950px;
+height:518px;
+background: none repeat scroll 0% 0% #FFF;
+display: block;
+top: 50px;
+position: relative;
+}
+
+
+#Main-text{
+margin:70px 185px 0px;
+color:white;  
+position:relative;
+line-height:20px;
+text-align: justify;
+}
+
+
+#Read-more{
+margin: 30px 500px 0px;
+position:absolute;   
+color:white;
+text-decoration: underline;
+padding-bottom:30px;
+text-transform: uppercase;  
+}
